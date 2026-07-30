@@ -1,0 +1,50 @@
+:root {
+  /* Brand palette: a calm operating brief with a single electric transaction blue. */
+  --color-canvas: #f5f7f8;
+  --color-surface: #ffffff;
+  --color-surface-muted: #eef2f4;
+  --color-ink: #172126;
+  --color-ink-muted: #627178;
+  --color-ink-faint: #8a989e;
+  --color-line: #e1e8eb;
+  --color-line-strong: #cbd7dc;
+  --color-brand: #2864dc;
+  --color-brand-deep: #16449f;
+  --color-brand-soft: #e9efff;
+  --color-growth: #13a88a;
+  --color-growth-soft: #e3f6f1;
+  --color-signal: #ff7a45;
+  --color-signal-soft: #fff0e9;
+  --color-warning: #e8a126;
+  --color-warning-soft: #fff7df;
+
+  /* Typography */
+  --font-sans: "Inter", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  --font-display: "Inter", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  --font-data: "DIN Alternate", "SFMono-Regular", Consolas, monospace;
+  --text-xs: 0.6875rem;
+  --text-sm: 0.8125rem;
+  --text-md: 0.9375rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.5rem;
+  --text-2xl: clamp(2rem, 3.5vw, 3.75rem);
+
+  /* Layout */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --radius-sm: 0.5rem;
+  --radius-md: 0.875rem;
+  --radius-lg: 1.25rem;
+  --radius-pill: 999px;
+  --shadow-soft: 0 18px 48px rgba(23, 33, 38, 0.07);
+  --shadow-focus: 0 0 0 3px rgba(40, 100, 220, 0.2);
+  --content-width: 1440px;
+  --sidebar-width: 248px;
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "width": 1440,
+    "height": 900,
+    "title": "商析 · 经营分析驾驶舱",
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "heading": "经营总览",
+    "noHorizontalOverflow": true,
+    "pageErrors": [],
+    "screenshot": "C:/Users/Zhao/.codex/visualizations/2026/07/26/019f9c26-c5a6-7211-93ee-8a9f3c0ce49f/p1-1440.png"
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "title": "商析 · 经营分析驾驶舱",
+    "scrollWidth": 768,
+    "innerWidth": 768,
+    "heading": "经营总览",
+    "noHorizontalOverflow": true,
+    "pageErrors": [],
+    "screenshot": "C:/Users/Zhao/.codex/visualizations/2026/07/26/019f9c26-c5a6-7211-93ee-8a9f3c0ce49f/p1-768.png"
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "title": "商析 · 经营分析驾驶舱",
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "heading": "经营总览",
+    "noHorizontalOverflow": true,
+    "pageErrors": [],
+    "screenshot": "C:/Users/Zhao/.codex/visualizations/2026/07/26/019f9c26-c5a6-7211-93ee-8a9f3c0ce49f/p1-390.png"
+  },
+  {
+    "keyboardStart": {
+      "body": "商析\n经营决策台\n◈ 经营总览\n◈ 商品分析\n◈ 用户分析\n◈ 渠道分析\n◈ 数据导入\n下一步\n● 示例数据运行中\n更新于 10:42\nBUSINESS PULSE · 07/25\n经营总览\n\n先看变化，再决定今天把精力放在哪里。\n\n时间范围\n近7天\n近14天\n近28天\n销售渠道\n全渠道\n抖音\n天猫\n京东\n小红书\n导出简报\n今日\n简报\n\n整体成交保持增长，抖音与小红书贡献主要增量；退款率连续 3 天上行，主要集中在云感凉被的“尺寸不符”。\n\n查看原因 →\n销售额 GMV\n¥2,025,970\n+12.8% 较上周期\n支付订单\n7,782\n+9.6% 较上周期\n客单价\n¥260.341\n+2.9% 较上周期\n支付转化率\n3.8%\n+0.6pp 较上周期\n退款率\n5.2%\n+1.1pp 较上周期\n7月目标完成\n84%\n交易脉搏\n销售趋势与经营事件\n● 销售额　● 经营事件\n07/10\n达人专场\n直播间成交拉升 31%\n07/19\n夏季上新\n新品贡献 18.6 万\n07/23\n退款高峰\n凉感被退款率升至 8.4%\n收入结构\n渠道贡献\n抖音\n3012 单\n+18.7%\n天猫\n2387 单\n+6.4%\n京东\n1641 单\n-2.1%\n小红书\n742 单\n+24.3%\n今日判断\n优先做这 3 件事\n01\n检查云感凉被尺码描述\n\n退款率高于店铺均值 3.2pp，预计可减少约 ¥18,600 损失。\n\n去处理\n02\n为轻氧防晒衣补充流量\n\n近 7 天自然成交增长 42%。\n\n看商品\n03\n复用小红书高转化素材\n\n内容点击率高于其他渠道 27%。\n\n看渠道\n商品机会\n增长 × 转化机会矩阵",
+      "buttons": [
+        "◈ 经营总览",
+        "◈ 商品分析",
+        "◈ 用户分析",
+        "◈ 渠道分析",
+        "◈ 数据导入下一步",
+        "导出简报",
+        "查看原因 →",
+        "销售额 GMV¥2,025,970+12.8% 较上周期",
+        "支付订单7,782+9.6% 较上周期",
+        "客单价¥260.341+2.9% 较上周期",
+        "支付转化率3.8%+0.6pp 较上周期",
+        "退款率5.2%+1.1pp 较上周期",
+        "7月目标完成84%",
+        "07/10达人专场直播间成交拉升 31%",
+        "07/19夏季上新新品贡献 18.6 万",
+        "07/23退款高峰凉感被退款率升至 8.4%",
+        "抖音3012 单+18.7%",
+        "天猫2387 单+6.4%",
+        "京东1641 单-2.1%",
+        "小红书742 单+24.3%",
+        "去处理",
+        "看商品",
+        "看渠道"
+      ],
+      "inputs": []
+    }
+  },
+  {
+    "keyboard": {
+      "continueVisible": true,
+      "continueTabCount": 8,
+      "continueFocus": {
+        "outline": "rgba(40, 100, 220, 0.45) solid 3px",
+        "boxShadow": "rgba(40, 100, 220, 0.2) 0px 0px 0px 3px"
+      },
+      "fieldPageVisible": true,
+      "confirmVisible": true,
+      "confirmTabCount": 10,
+      "confirmFocus": {
+        "outline": "rgba(40, 100, 220, 0.45) solid 3px",
+        "boxShadow": "rgba(40, 100, 220, 0.2) 0px 0px 0px 3px"
+      },
+      "dashboardEnabled": true,
+      "dashboardTabCount": 1,
+      "dashboardFocus": {
+        "outline": "rgba(40, 100, 220, 0.45) solid 3px",
+        "boxShadow": "rgba(40, 100, 220, 0.2) 0px 0px 0px 3px"
+      },
+      "dashboardVisible": true,
+      "finalState": {
+        "heading": "经营总览",
+        "body": "商析\n经营决策台\n◈ 经营总览\n◈ 商品分析\n◈ 用户分析\n◈ 渠道分析\n◈ 数据导入\n下一步\n● 示例数据运行中\n更新于 10:42\nBUSINESS PULSE · 07/25\n经营总览\n\n先看变化，再决定今天把精力放在哪里。\n\n时间范围\n近7天\n近14天\n近28天\n销售渠道\n全渠道\n抖音\n天猫\n京东\n小红书\n导出简报\n今日\n简报\n\n整体成交保持增长，抖音与小红书贡献主要增量；退款率连续 3 天上行，主要集中在云感凉被的“尺寸不符”。\n\n查看原因 →\n销售额 GMV\n¥2,025,970\n+12.8% 较上周期\n支付订单\n7,782\n+9.6% 较上周期\n客单价\n¥260.341\n+2.9% 较上周期\n支付转化率\n3.8%\n+0.6pp 较上周期\n退款率\n5.2%\n+1.1pp 较上周期\n7月目标完成\n84%\n交易脉搏\n销售趋势与经营事件\n● 销售额　● 经营事件\n07/10\n达人专场\n直播间成交拉升 31%\n07/19\n夏季上新\n新品贡献 18.6 万\n07/23\n退款高峰\n凉感被退款率升至 8.4%\n收入结构\n渠道贡献\n抖音\n3012 单\n+18.7%\n天猫\n2387 单\n+6",
+        "url": "http://localhost:5174/"
+      },
+      "focusedStyle": {
+        "tag": "BODY",
+        "text": "商析\n经营决策台\n◈ 经营总览\n◈ 商品分析\n◈ 用户分析\n◈ 渠道分析\n◈ 数据导入\n下一步\n● 示例数据运行中\n更新",
+        "outline": "rgb(23, 33, 38) none 3px",
+        "boxShadow": "none"
+      }
+    }
+  }
+]

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.test-dist/
+.cache/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+dev-server.log
+_codex_probe.txt
+_doc_write_probe.txt
+x.txt
+.env
+.env.*
+!.env.example

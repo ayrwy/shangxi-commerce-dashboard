@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "lib": [
+      "ES2022",
+      "DOM"
+    ],
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": ".test-dist",
+    "rootDir": "src",
+    "noEmit": false
+  },
+  "include": [
+    "src/csvParser.ts",
+    "src/csvParser.test.ts",
+    "src/importSession.ts",
+    "src/importSession.test.ts",
+    "src/metricCapabilities.ts",
+    "src/metricCapabilities.test.ts",
+    "src/analysisPages.ts",
+    "src/analysisPages.test.ts",
+    "src/standardization.ts",
+    "src/standardization.test.ts"
+    ,"src/mappingTemplates.ts"
+    ,"src/mappingTemplates.test.ts"
+    ,"src/metricEngine.ts"
+    ,"src/metricEngine.test.ts"
+    ,"src/relationshipEngine.ts"
+    ,"src/relationshipEngine.test.ts"
+    ,"src/analysisModel.ts"
+    ,"src/analysisModel.test.ts"
+    ,"src/assistantContext.ts"
+    ,"src/assistantContext.test.ts"
+  ]
+}
