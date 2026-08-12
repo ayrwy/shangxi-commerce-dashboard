@@ -6,9 +6,28 @@ dist/
 vite.config.js
 vite.config.d.ts
 dev-server.log
+cookie-test.txt
 _codex_probe.txt
 _doc_write_probe.txt
 x.txt
 .env
 .env.*
 !.env.example
+backend/.venv/
+backend/.env
+backend/db.sqlite3
+__pycache__/
+*.pyc
+
+# pi git-checkpoint
+.pi/
+.idea/
+.vscode/
+build/
+
+# local tunnel artifacts
+cloudflared*.exe
+local-index.html;
+tunnel-index.html;
+backend/django-dev.log
+portfolio-output/screenshots/
